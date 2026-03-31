@@ -1,5 +1,5 @@
 Product Management REST API
-A RESTful API for managing products, built with Node.js and Express.js. Supports full CRUD operations — create, read, update, and delete products — with data persisted in a MongoDB database.
+A RESTful API for managing products, built with Node.js and Express.js. Supports full CRUD operations and create, read, update, and delete products  with data persisted in a MongoDB database.
 
 Tech Stack
 
@@ -46,5 +46,3 @@ Environment Variables
 Create a .env file in the root directory and add:
 MONGO_URI=your_mongodb_connection_string
 PORT=3000
-
-Built by Essang Edet
